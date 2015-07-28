@@ -1,0 +1,6 @@
+stage
+boost_build
+**/build
+*.exe
+*.log
+*.jam
